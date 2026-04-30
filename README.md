@@ -1,3 +1,4 @@
+<img width="1919" height="1079" alt="Screenshot_2026-04-30_094810" src="https://github.com/user-attachments/assets/94201036-f511-47f4-81ee-4ccfe49cc73f" />
 # 🩺 Heala – GitHub Organization
 
 Welcome to the official GitHub organization of **Heala**.
@@ -81,7 +82,18 @@ Healthcare data security is a core priority:
 - Integration-ready system for healthcare devices
 
 ---
-## 🖥️ Frontend Screenshot
+## 🖥️ Frontend Screenshots
 
+### Dashboard Overview
 ![Heala Dashboard](https://github.com/user-attachments/assets/2bdc1631-1531-4191-ba33-130e6fadf7d1)
+
+### Additional Views
+
+![Dashboard View 1](https://github.com/user-attachments/assets/0a84189c-0aba-4f43-8bca-60bae6a20fcb)
+
+![Dashboard View 2](https://github.com/user-attachments/assets/c76ce721-e685-4d83-8ffc-9dbea40b2d0c)
+
+![Dashboard View 3](https://github.com/user-attachments/assets/8f237909-03ab-4637-8d7a-42cb5fb52e81)
+
+![Dashboard View 4](https://github.com/user-attachments/assets/d6f5c9f5-cc80-4f76-9812-30d90dec24a3)
 
