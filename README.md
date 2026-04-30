@@ -1,4 +1,3 @@
-<img width="1919" height="1079" alt="Screenshot_2026-04-30_094810" src="https://github.com/user-attachments/assets/94201036-f511-47f4-81ee-4ccfe49cc73f" />
 # 🩺 Heala – GitHub Organization
 
 Welcome to the official GitHub organization of **Heala**.
