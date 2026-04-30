@@ -96,3 +96,7 @@ Healthcare data security is a core priority:
 
 ![Dashboard View 4](https://github.com/user-attachments/assets/d6f5c9f5-cc80-4f76-9812-30d90dec24a3)
 
+## 📊 Project Resources
+
+- 🎤 **Presentation (Canva)**: [View Presentation](https://canva.link/ugy9kd5rdb85h6j)  
+- 📈 **Business Model Canvas (BMC)**: [View BMC](https://canva.link/kyflyrqh2ls1mwk)
