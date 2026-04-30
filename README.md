@@ -75,6 +75,13 @@ Healthcare data security is a core priority:
 - Centralized medical dashboard
 - Scalable API-first architecture
 - Modular microservices design
+
+
+
 - Integration-ready system for healthcare devices
 
 ---
+## 🖥️ Frontend Screenshot
+
+![Heala Dashboard](https://github.com/user-attachments/assets/2bdc1631-1531-4191-ba33-130e6fadf7d1)
+
